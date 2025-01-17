@@ -1,0 +1,9 @@
+# Arquivos confidenciais
+credentials.json
+token.json
+db.json
+.env
+
+# Pastas e arquivos gerados automaticamente
+__pycache__/
+.idea/
